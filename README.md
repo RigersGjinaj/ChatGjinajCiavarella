@@ -2,20 +2,28 @@ Chat Gjinaj Ciavarella
 
 Accesso/Registrazione
 
+
 Quando parte il client sarà chiesto se si vuole accedere o registrarsi:
 
+
 -a→Accesso;
+
 -r→Registrazione;
 
+
 note:
+
 -Il programma non accetterà altre lettere oltre alle 2 indicate sopra;
+
 -Non si può accedere se prima non ci si registra;
+
 -Lo stesso utente non essere online da due client diversi contemporaneamente;
+
 
 Una volta inserita la password e fatto invio bisognerà dare invio una seconda volta per entrare nella chat.
 
 
-Chat con utenti
+  Chat con utenti
 	
 Una volta nella chat il software ci chiederà il destinatario del nostro messaggio:
 
