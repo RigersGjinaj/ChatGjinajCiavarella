@@ -17,7 +17,7 @@ note:
 
 -Non si può accedere se prima non ci si registra;
 
--Lo stesso utente non essere online da due client diversi contemporaneamente;
+-Lo stesso utente non può essere online da due client diversi contemporaneamente;
 
 
 -Una volta inserita la password e fatto invio bisognerà dare invio una seconda volta per entrare nella chat.
@@ -27,8 +27,9 @@ note:
 	
 Una volta nella chat il software ci chiederà il destinatario del nostro messaggio:
 
-All→messaggio a tutti gli utenti;
-un nome utente qualsiasi registrato→messaggio privato a quel singolo utente;
+-All→messaggio a tutti gli utenti;
+
+-un nome utente qualsiasi registrato→messaggio privato a quel singolo utente;
 
 Dopo questo dovremmo inserire il messaggio effettivo, il mandante vedrà il messaggio sulla destra con io:”contenuto del messaggio”, mentre il ricevente lo vedrà sempre sulla destra con nomeDelUtenteCheLoHaInviato:”contenuto del messaggio”
 
