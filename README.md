@@ -20,7 +20,7 @@ note:
 -Lo stesso utente non essere online da due client diversi contemporaneamente;
 
 
-Una volta inserita la password e fatto invio bisognerà dare invio una seconda volta per entrare nella chat.
+-Una volta inserita la password e fatto invio bisognerà dare invio una seconda volta per entrare nella chat.
 
 
   Chat con utenti
