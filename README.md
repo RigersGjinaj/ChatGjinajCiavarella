@@ -87,3 +87,19 @@ Ricezione secondo utente
 
 
 Ricapitolando nella colonna di sinistra ci saranno i comandi per mandare i messaggi mentre in quella di destra gli effettivi messaggi.
+
+
+
+
+
+Funzionamento:
+
+-Accesso/Registrazione 
+
+Quando si proverà a fare l’accesso o la registrazione il client creerà un oggetto di tipo utente con il nome utente e la password forniti, una volta fatto questo lo serializza in un json e lo manderà al server.
+Il server deserializza il json in un oggetto di tipo utente(che è in comune con il client) e ne ricava le informazioni necessarie per i controlli.
+
+-Messaggio 
+
+Discorso simile per lo scambio di messaggi infatti il client creerà un oggetto di tipo messaggio con le informazioni fornite esso poi sarà serializzato e mandato al server che lo deserializzerà in un oggetto di tipo messaggio(che è in comune con il client), da qui ne ricaverà le informazioni necessarie per mandare il messaggio al singolo utente o a tutti.
+
